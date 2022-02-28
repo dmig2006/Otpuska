@@ -1,0 +1,107 @@
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\obj\Debug\Otpuska.csprojResolveAssemblyReference.cache
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\obj\Debug\Otpuska.MainScreen.resources
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\obj\Debug\Otpuska.MenuScreen.resources
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\obj\Debug\Otpuska.ModifyPearsonScreen.resources
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\obj\Debug\Otpuska.Properties.Resources.resources
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.GenerateResource.Cache
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\bin\Debug\Otpuska.exe.config
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\bin\Debug\Otpuska.exe
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\bin\Debug\Otpuska.pdb
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\obj\Debug\Otpuska.exe
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\obj\Debug\Otpuska.pdb
+c:\users\d.t.gilmutdinov\documents\visual studio 2017\Projects\Otpuska\Otpuska\obj\Debug\Otpuska.AddPearsonScreen.resources
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.exe.config
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.exe
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.pdb
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csprojResolveAssemblyReference.cache
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.AddPearsonScreen.resources
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.MainScreen.resources
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.MenuScreen.resources
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.ModifyPearsonScreen.resources
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.Properties.Resources.resources
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.GenerateResource.Cache
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.exe
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.pdb
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\bin\Debug\OtpuskBase.mdf
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\bin\Debug\OtpuskBase_log.ldf
+C:\Users\d.t.gilmutdinov\Documents\Visual Studio 2017\Projects\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.ResolveComReference.cache
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\bin\Debug\OtpuskBase.mdf
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\bin\Debug\OtpuskBase_log.ldf
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.exe.config
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.exe
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.pdb
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csprojAssemblyReference.cache
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.ResolveComReference.cache
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.AddPearsonScreen.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.MainScreen.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.MenuScreen.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.ModifyPearsonScreen.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.Properties.Resources.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.GenerateResource.cache
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.CoreCompileInputs.cache
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.exe
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.pdb
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\OtpuskBase.mdf
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\OtpuskBase_log.ldf
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.exe.config
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.exe
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.pdb
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\MetroFramework.Design.dll
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\MetroFramework.dll
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csprojAssemblyReference.cache
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.ResolveComReference.cache
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.AddPearsonScreen.resources
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.MainScreen.resources
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.MenuScreen.resources
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.ModifyPearsonScreen.resources
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.Properties.Resources.resources
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.GenerateResource.cache
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.CoreCompileInputs.cache
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.CopyComplete
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.exe
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.pdb
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.WaitForm.resources
+D:\Projects\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.AddEditOtdelForm.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\OtpuskBase.mdf
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\OtpuskBase_log.ldf
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.exe.config
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.exe
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.pdb
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\MetroFramework.Design.dll
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\MetroFramework.dll
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\MetroFramework.Fonts.dll
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csprojAssemblyReference.cache
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.ResolveComReference.cache
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.AddEditOtdelForm.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.AddPearsonScreen.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.MainScreen.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.MenuScreen.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.ModifyPearsonScreen.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.Properties.Resources.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.WaitForm.resources
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.GenerateResource.cache
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.CoreCompileInputs.cache
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.CopyComplete
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.exe
+S:\Дивизион автоматизации и разработки\Конструкторский центр\Бюро электроники\Проекты\Проект Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.pdb
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\OtpuskBase.mdf
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\OtpuskBase_log.ldf
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.exe.config
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.exe
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\Otpuska.pdb
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\MetroFramework.Design.dll
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\MetroFramework.dll
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\bin\Debug\MetroFramework.Fonts.dll
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csprojResolveAssemblyReference.cache
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.ResolveComReference.cache
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.AddEditOtdelForm.resources
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.AddPearsonScreen.resources
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.MainScreen.resources
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.MenuScreen.resources
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.ModifyPearsonScreen.resources
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.Properties.Resources.resources
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.WaitForm.resources
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.csproj.GenerateResource.Cache
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.exe
+C:\Project\Отпуска\С ТАБЕЛЕМ\Otpusk_git\Otpuska\Otpuska\obj\Debug\Otpuska.pdb
